@@ -1,0 +1,16 @@
+{
+  "short_name": "CoolClads",
+  "name": "CoolClads Kenya - Premium Footwear",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0066CC",
+  "background_color": "#ffffff",
+  "description": "CoolClads Kenya - Premium quality shoes for men, women, and kids. Stylish, durable, and affordable footwear with quick delivery across Kenya."
+}
